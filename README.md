@@ -19,7 +19,7 @@
 
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subham-saha-b3b790255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subham-saha-b3b790255/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subham-saha-b3b790255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subham-saha-b3b790255/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/subhamprof685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhamprof685" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/subham__saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subham__saha" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/awandbhjw7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="awandbhjw7" height="30" width="40" /></a>
